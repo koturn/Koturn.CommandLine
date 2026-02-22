@@ -3,17 +3,20 @@
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;net8.0;net9.0;net10.0</TargetFrameworks>
     <LangVersion>14</LangVersion>
-    <Copyright>Copyright (C) 2020 koturn All Rights Reserverd.</Copyright>
+    <Nullable>enable</Nullable>
+    <WarningLevel>8</WarningLevel>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <Title>Koturn.CommandLine</Title>
+    <Version>2.0.0</Version>
     <Authors>koturn</Authors>
     <Company>koturn</Company>
     <Description>Command Line Argument Parser for .NET.</Description>
+    <Copyright>Copyright (C) 2020 koturn All Rights Reserverd.</Copyright>
     <PackageProjectUrl>https://github.com/koturn/Koturn.CommandLine</PackageProjectUrl>
-    <PackageLicenseFile>..\LICENSE</PackageLicenseFile>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/koturn/Koturn.CommandLine</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <Nullable>enable</Nullable>
-    <PackageReadmeFile>README.md</PackageReadmeFile>
-    <Version>2.0.0</Version>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
 
   <ItemGroup>
