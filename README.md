@@ -1,7 +1,9 @@
 Koturn.CommandLine
 ==================
 
-[![Test status](https://ci.appveyor.com/api/projects/status/wvtmvwehnbqjcjvd/branch/main?svg=true)](https://ci.appveyor.com/project/koturn/koturn-commandline "AppVeyor | koturn/Koturn.CommandLine")
+[![.NET](https://github.com/koturn/Koturn.CommandLine/actions/workflows/dotnet.yml/badge.svg)](https://github.com/koturn/Koturn.CommandLine/actions/workflows/dotnet.yml)
+
+[![Build status](https://ci.appveyor.com/api/projects/status/wvtmvwehnbqjcjvd/branch/main?svg=true)](https://ci.appveyor.com/project/koturn/koturn-commandline "AppVeyor | koturn/Koturn.CommandLine")
 
 A Command Line Argument Parser for .NET.
 
